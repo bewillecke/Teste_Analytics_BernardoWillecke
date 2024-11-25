@@ -1,0 +1,981 @@
+ID,Data,Produto,Categoria,Quantidade,Preco
+1,2023-01-01,Bala de gelatina,Conveniencia,4,11.9
+2,2023-01-02,Dipirona,Remedios,2,7.6
+3,2023-01-02,Batom,Produtos de beleza,3,25.5
+4,2023-01-02,Ibuprofeno,Remedios,1,12.6
+5,2023-01-02,Chocolate,Conveniencia,6,8.7
+6,2023-01-02,Ibuprofeno,Remedios,7,12.6
+7,2023-01-04,Naproxeno,Remedios,1,21.9
+8,2023-01-04,Locao para acne,Produtos de beleza,5,34.0
+9,2023-01-04,Bala de gelatina,Conveniencia,2,11.9
+10,2023-01-04,Paracetamol,Remedios,5,9.9
+11,2023-01-05,Acetona,Produtos de beleza,6,9.9
+12,2023-01-05,Isotonico,Conveniencia,5,9.5
+13,2023-01-05,Energetico,Conveniencia,5,15.9
+14,2023-01-05,Sabonete em barra,Higiene pessoal,8,5.5
+15,2023-01-06,Suco de fruta,Conveniencia,5,7.25
+16,2023-01-06,Chocolate,Conveniencia,5,8.7
+17,2023-01-06,Isotonico,Conveniencia,4,9.5
+18,2023-01-07,Naproxeno,Remedios,6,21.9
+19,2023-01-07,Aspirina,Remedios,3,11.5
+20,2023-01-07,Ibuprofeno,Remedios,3,12.6
+21,2023-01-08,Isotonico,Conveniencia,3,9.5
+22,2023-01-08,Naproxeno,Remedios,5,21.9
+23,2023-01-09,Escova de dente,Higiene pessoal,1,20.5
+24,2023-01-09,Preservativo,Higiene pessoal,7,2.5
+25,2023-01-09,Chocolate,Conveniencia,6,8.7
+26,2023-01-09,Sabonete liquido,Higiene pessoal,8,12.25
+27,2023-01-10,Aspirina,Remedios,9,11.5
+28,2023-01-10,Bala de gelatina,Conveniencia,10,11.9
+29,2023-01-11,Escova de dente,Higiene pessoal,6,20.5
+30,2023-01-12,Batom,Produtos de beleza,5,25.5
+31,2023-01-12,Dipirona,Remedios,10,7.6
+32,2023-01-12,Sabonete em barra,Higiene pessoal,6,5.5
+33,2023-01-13,Dipirona,Remedios,6,7.6
+34,2023-01-13,Escova de dente,Higiene pessoal,4,20.5
+35,2023-01-13,Ibuprofeno,Remedios,3,12.6
+36,2023-01-14,Naproxeno,Remedios,10,21.9
+37,2023-01-15,Naproxeno,Remedios,4,21.9
+38,2023-01-15,Bala de gelatina,Conveniencia,3,11.9
+39,2023-01-16,Sabonete liquido,Higiene pessoal,8,12.25
+40,2023-01-16,Locao para acne,Produtos de beleza,2,34.0
+41,2023-01-17,Fio dental,Higiene pessoal,4,14.9
+42,2023-01-17,Preservativo,Higiene pessoal,8,2.5
+43,2023-01-17,Preservativo,Higiene pessoal,10,2.5
+44,2023-01-18,Acetona,Produtos de beleza,8,9.9
+45,2023-01-18,Sabonete liquido,Higiene pessoal,5,12.25
+46,2023-01-19,Bala de gelatina,Conveniencia,3,11.9
+47,2023-01-19,Preservativo,Higiene pessoal,6,2.5
+48,2023-01-20,Bala de gelatina,Conveniencia,1,11.9
+49,2023-01-20,Escova de dente,Higiene pessoal,6,20.5
+50,2023-01-20,Dipirona,Remedios,2,7.6
+51,2023-01-20,Energetico,Conveniencia,2,15.9
+52,2023-01-20,Paracetamol,Remedios,4,9.9
+53,2023-01-20,Isotonico,Conveniencia,2,9.5
+54,2023-01-21,Sabonete liquido,Higiene pessoal,10,12.25
+55,2023-01-21,Sabonete liquido,Higiene pessoal,8,12.25
+56,2023-01-22,Preservativo,Higiene pessoal,3,2.5
+57,2023-01-22,Aspirina,Remedios,2,11.5
+58,2023-01-23,Naproxeno,Remedios,4,21.9
+59,2023-01-23,Protetor solar,Produtos de beleza,1,52.5
+60,2023-01-23,Suco de fruta,Conveniencia,4,7.25
+61,2023-01-23,Sabonete liquido,Higiene pessoal,2,12.25
+62,2023-01-23,Paracetamol,Remedios,6,9.9
+63,2023-01-23,Sabonete em barra,Higiene pessoal,1,5.5
+64,2023-01-23,Bala de gelatina,Conveniencia,6,11.9
+65,2023-01-24,Naproxeno,Remedios,8,21.9
+66,2023-01-24,Energetico,Conveniencia,2,15.9
+67,2023-01-25,Suco de fruta,Conveniencia,9,7.25
+68,2023-01-25,Paracetamol,Remedios,2,9.9
+69,2023-01-25,Ibuprofeno,Remedios,1,12.6
+70,2023-01-25,Chocolate,Conveniencia,2,8.7
+71,2023-01-26,Ibuprofeno,Remedios,6,12.6
+72,2023-01-26,Locao para acne,Produtos de beleza,8,34.0
+73,2023-01-26,Aspirina,Remedios,10,11.5
+74,2023-01-26,Aspirina,Remedios,4,11.5
+75,2023-01-26,Dipirona,Remedios,10,7.6
+76,2023-01-26,Energetico,Conveniencia,4,15.9
+77,2023-01-26,Sabonete em barra,Higiene pessoal,2,5.5
+78,2023-01-26,Hidratante labial,Produtos de beleza,10,19.9
+79,2023-01-27,Locao para acne,Produtos de beleza,7,34.0
+80,2023-01-28,Sabonete em barra,Higiene pessoal,3,5.5
+81,2023-01-28,Batom,Produtos de beleza,8,25.5
+82,2023-01-28,Sabonete liquido,Higiene pessoal,1,12.25
+83,2023-01-28,Preservativo,Higiene pessoal,5,2.5
+84,2023-01-29,Paracetamol,Remedios,3,9.9
+85,2023-01-29,Aspirina,Remedios,2,11.5
+86,2023-01-30,Paracetamol,Remedios,8,9.9
+87,2023-01-30,Naproxeno,Remedios,4,21.9
+88,2023-01-31,Aspirina,Remedios,3,11.5
+89,2023-01-31,Sabonete liquido,Higiene pessoal,5,12.25
+90,2023-01-31,Isotonico,Conveniencia,3,9.5
+91,2023-01-31,Fio dental,Higiene pessoal,3,14.9
+92,2023-02-01,Sabonete liquido,Higiene pessoal,10,12.25
+93,2023-02-02,Preservativo,Higiene pessoal,2,2.5
+94,2023-02-02,Bala de gelatina,Conveniencia,5,11.9
+95,2023-02-02,Sabonete em barra,Higiene pessoal,6,5.5
+96,2023-02-03,Sabonete liquido,Higiene pessoal,9,12.25
+97,2023-02-03,Paracetamol,Remedios,8,9.9
+98,2023-02-03,Chocolate,Conveniencia,4,8.7
+99,2023-02-04,Sabonete liquido,Higiene pessoal,3,12.25
+100,2023-02-05,Batom,Produtos de beleza,4,25.5
+101,2023-02-06,Naproxeno,Remedios,1,21.9
+102,2023-02-06,Energetico,Conveniencia,9,15.9
+103,2023-02-07,Sabonete liquido,Higiene pessoal,7,12.25
+104,2023-02-07,Protetor solar,Produtos de beleza,3,52.5
+105,2023-02-07,Bala de gelatina,Conveniencia,2,11.9
+106,2023-02-07,Energetico,Conveniencia,8,15.9
+107,2023-02-08,Bala de gelatina,Conveniencia,10,11.9
+108,2023-02-08,Aspirina,Remedios,2,11.5
+109,2023-02-08,Dipirona,Remedios,2,7.6
+110,2023-02-09,Preservativo,Higiene pessoal,2,2.5
+111,2023-02-09,Ibuprofeno,Remedios,10,12.6
+112,2023-02-10,Acetona,Produtos de beleza,8,9.9
+113,2023-02-10,Batom,Produtos de beleza,6,25.5
+114,2023-02-10,Preservativo,Higiene pessoal,4,2.5
+115,2023-02-11,Sabonete em barra,Higiene pessoal,5,5.5
+116,2023-02-12,Sabonete em barra,Higiene pessoal,2,5.5
+117,2023-02-12,Chocolate,Conveniencia,9,8.7
+118,2023-02-12,Bala de gelatina,Conveniencia,1,11.9
+119,2023-02-12,Naproxeno,Remedios,8,21.9
+120,2023-02-13,Batom,Produtos de beleza,4,25.5
+121,2023-02-13,Dipirona,Remedios,8,7.6
+122,2023-02-13,Protetor solar,Produtos de beleza,8,52.5
+123,2023-02-14,Isotonico,Conveniencia,1,9.5
+124,2023-02-14,Ibuprofeno,Remedios,2,12.6
+125,2023-02-14,Bala de gelatina,Conveniencia,8,11.9
+126,2023-02-15,Sabonete liquido,Higiene pessoal,3,12.25
+127,2023-02-15,Locao para acne,Produtos de beleza,6,34.0
+128,2023-02-15,Sabonete em barra,Higiene pessoal,1,5.5
+129,2023-02-16,Hidratante labial,Produtos de beleza,2,19.9
+130,2023-02-16,Sabonete liquido,Higiene pessoal,3,12.25
+131,2023-02-17,Naproxeno,Remedios,7,21.9
+132,2023-02-17,Locao para acne,Produtos de beleza,2,34.0
+133,2023-02-17,Preservativo,Higiene pessoal,9,2.5
+134,2023-02-18,Aspirina,Remedios,5,11.5
+135,2023-02-18,Preservativo,Higiene pessoal,6,2.5
+136,2023-02-18,Fio dental,Higiene pessoal,7,14.9
+137,2023-02-19,Chocolate,Conveniencia,1,8.7
+138,2023-02-19,Acetona,Produtos de beleza,1,9.9
+139,2023-02-20,Sabonete em barra,Higiene pessoal,2,5.5
+140,2023-02-20,Sabonete em barra,Higiene pessoal,2,5.5
+141,2023-02-20,Locao para acne,Produtos de beleza,4,34.0
+142,2023-02-21,Sabonete em barra,Higiene pessoal,3,5.5
+143,2023-02-22,Isotonico,Conveniencia,4,9.5
+144,2023-02-22,Ibuprofeno,Remedios,5,12.6
+145,2023-02-22,Paracetamol,Remedios,10,9.9
+146,2023-02-23,Bala de gelatina,Conveniencia,7,11.9
+147,2023-02-23,Aspirina,Remedios,8,11.5
+148,2023-02-23,Locao para acne,Produtos de beleza,3,34.0
+149,2023-02-23,Chocolate,Conveniencia,8,8.7
+150,2023-02-24,Aspirina,Remedios,3,11.5
+151,2023-02-24,Paracetamol,Remedios,10,9.9
+152,2023-02-25,Protetor solar,Produtos de beleza,7,52.5
+153,2023-02-25,Aspirina,Remedios,3,11.5
+154,2023-02-25,Energetico,Conveniencia,8,15.9
+155,2023-02-26,Naproxeno,Remedios,8,21.9
+156,2023-02-26,Locao para acne,Produtos de beleza,5,34.0
+157,2023-02-26,Chocolate,Conveniencia,4,8.7
+158,2023-02-27,Paracetamol,Remedios,7,9.9
+159,2023-02-28,Sabonete em barra,Higiene pessoal,5,5.5
+160,2023-02-28,Chocolate,Conveniencia,3,8.7
+161,2023-02-28,Suco de fruta,Conveniencia,2,7.25
+162,2023-02-28,Suco de fruta,Conveniencia,4,7.25
+163,2023-02-28,Suco de fruta,Conveniencia,10,7.25
+164,2023-02-28,Sabonete em barra,Higiene pessoal,3,5.5
+165,2023-03-01,Dipirona,Remedios,2,7.6
+166,2023-03-02,Naproxeno,Remedios,9,21.9
+167,2023-03-03,Isotonico,Conveniencia,1,9.5
+168,2023-03-04,Bala de gelatina,Conveniencia,7,11.9
+169,2023-03-04,Chocolate,Conveniencia,3,8.7
+170,2023-03-04,Locao para acne,Produtos de beleza,4,34.0
+171,2023-03-04,Isotonico,Conveniencia,3,9.5
+172,2023-03-04,Acetona,Produtos de beleza,7,9.9
+173,2023-03-04,Isotonico,Conveniencia,6,9.5
+174,2023-03-06,Chocolate,Conveniencia,7,8.7
+175,2023-03-06,Preservativo,Higiene pessoal,7,2.5
+176,2023-03-06,Bala de gelatina,Conveniencia,2,11.9
+177,2023-03-06,Paracetamol,Remedios,2,9.9
+178,2023-03-08,Batom,Produtos de beleza,6,25.5
+179,2023-03-08,Energetico,Conveniencia,8,15.9
+180,2023-03-08,Isotonico,Conveniencia,4,9.5
+181,2023-03-09,Protetor solar,Produtos de beleza,5,52.5
+182,2023-03-09,Paracetamol,Remedios,9,9.9
+183,2023-03-10,Suco de fruta,Conveniencia,4,7.25
+184,2023-03-11,Protetor solar,Produtos de beleza,7,52.5
+185,2023-03-11,Fio dental,Higiene pessoal,6,14.9
+186,2023-03-11,Naproxeno,Remedios,5,21.9
+187,2023-03-11,Suco de fruta,Conveniencia,6,7.25
+188,2023-03-12,Protetor solar,Produtos de beleza,10,52.5
+189,2023-03-12,Escova de dente,Higiene pessoal,4,20.5
+190,2023-03-12,Suco de fruta,Conveniencia,7,7.25
+191,2023-03-13,Hidratante labial,Produtos de beleza,4,19.9
+192,2023-03-13,Ibuprofeno,Remedios,7,12.6
+193,2023-03-13,Bala de gelatina,Conveniencia,4,11.9
+194,2023-03-13,Isotonico,Conveniencia,9,9.5
+195,2023-03-14,Isotonico,Conveniencia,7,9.5
+196,2023-03-14,Batom,Produtos de beleza,6,25.5
+197,2023-03-14,Naproxeno,Remedios,2,21.9
+198,2023-03-14,Acetona,Produtos de beleza,1,9.9
+199,2023-03-15,Energetico,Conveniencia,8,15.9
+200,2023-03-15,Suco de fruta,Conveniencia,5,7.25
+201,2023-03-15,Hidratante labial,Produtos de beleza,8,19.9
+202,2023-03-15,Hidratante labial,Produtos de beleza,6,19.9
+203,2023-03-16,Protetor solar,Produtos de beleza,5,52.5
+204,2023-03-16,Protetor solar,Produtos de beleza,8,52.5
+205,2023-03-16,Acetona,Produtos de beleza,9,9.9
+206,2023-03-16,Suco de fruta,Conveniencia,9,7.25
+207,2023-03-16,Acetona,Produtos de beleza,7,9.9
+208,2023-03-17,Acetona,Produtos de beleza,8,9.9
+209,2023-03-17,Locao para acne,Produtos de beleza,4,34.0
+210,2023-03-18,Locao para acne,Produtos de beleza,8,34.0
+211,2023-03-18,Batom,Produtos de beleza,2,25.5
+212,2023-03-19,Ibuprofeno,Remedios,1,12.6
+213,2023-03-19,Paracetamol,Remedios,9,9.9
+214,2023-03-20,Bala de gelatina,Conveniencia,2,11.9
+215,2023-03-21,Protetor solar,Produtos de beleza,10,52.5
+216,2023-03-21,Aspirina,Remedios,9,11.5
+217,2023-03-22,Fio dental,Higiene pessoal,2,14.9
+218,2023-03-22,Locao para acne,Produtos de beleza,10,34.0
+219,2023-03-22,Ibuprofeno,Remedios,6,12.6
+220,2023-03-22,Energetico,Conveniencia,9,15.9
+221,2023-03-22,Locao para acne,Produtos de beleza,2,34.0
+222,2023-03-22,Naproxeno,Remedios,4,21.9
+223,2023-03-25,Sabonete liquido,Higiene pessoal,8,12.25
+224,2023-03-25,Hidratante labial,Produtos de beleza,10,19.9
+225,2023-03-26,Preservativo,Higiene pessoal,1,2.5
+226,2023-03-26,Sabonete em barra,Higiene pessoal,6,5.5
+227,2023-03-27,Bala de gelatina,Conveniencia,5,11.9
+228,2023-03-27,Bala de gelatina,Conveniencia,6,11.9
+229,2023-03-27,Naproxeno,Remedios,3,21.9
+230,2023-03-28,Protetor solar,Produtos de beleza,4,52.5
+231,2023-03-28,Chocolate,Conveniencia,2,8.7
+232,2023-03-28,Sabonete liquido,Higiene pessoal,4,12.25
+233,2023-03-29,Aspirina,Remedios,10,11.5
+234,2023-03-29,Suco de fruta,Conveniencia,5,7.25
+235,2023-03-30,Energetico,Conveniencia,2,15.9
+236,2023-03-30,Batom,Produtos de beleza,9,25.5
+237,2023-03-30,Bala de gelatina,Conveniencia,1,11.9
+238,2023-03-30,Acetona,Produtos de beleza,8,9.9
+239,2023-03-30,Isotonico,Conveniencia,2,9.5
+240,2023-03-31,Preservativo,Higiene pessoal,7,2.5
+241,2023-04-01,Escova de dente,Higiene pessoal,3,20.5
+242,2023-04-01,Locao para acne,Produtos de beleza,9,34.0
+243,2023-04-01,Energetico,Conveniencia,8,15.9
+244,2023-04-02,Locao para acne,Produtos de beleza,10,34.0
+245,2023-04-02,Naproxeno,Remedios,2,21.9
+246,2023-04-04,Sabonete liquido,Higiene pessoal,9,12.25
+247,2023-04-04,Energetico,Conveniencia,6,15.9
+248,2023-04-04,Locao para acne,Produtos de beleza,6,34.0
+249,2023-04-04,Suco de fruta,Conveniencia,10,7.25
+250,2023-04-04,Bala de gelatina,Conveniencia,4,11.9
+251,2023-04-04,Sabonete em barra,Higiene pessoal,6,5.5
+252,2023-04-05,Energetico,Conveniencia,8,15.9
+253,2023-04-05,Suco de fruta,Conveniencia,5,7.25
+254,2023-04-05,Suco de fruta,Conveniencia,3,7.25
+255,2023-04-05,Escova de dente,Higiene pessoal,10,20.5
+256,2023-04-05,Sabonete liquido,Higiene pessoal,1,12.25
+257,2023-04-05,Protetor solar,Produtos de beleza,8,52.5
+258,2023-04-05,Paracetamol,Remedios,1,9.9
+259,2023-04-05,Paracetamol,Remedios,1,9.9
+260,2023-04-06,Escova de dente,Higiene pessoal,6,20.5
+261,2023-04-07,Protetor solar,Produtos de beleza,5,52.5
+262,2023-04-07,Preservativo,Higiene pessoal,2,2.5
+263,2023-04-07,Energetico,Conveniencia,10,15.9
+264,2023-04-07,Hidratante labial,Produtos de beleza,3,19.9
+265,2023-04-08,Protetor solar,Produtos de beleza,5,52.5
+266,2023-04-09,Paracetamol,Remedios,4,9.9
+267,2023-04-09,Sabonete em barra,Higiene pessoal,8,5.5
+268,2023-04-09,Locao para acne,Produtos de beleza,4,34.0
+269,2023-04-09,Protetor solar,Produtos de beleza,10,52.5
+270,2023-04-09,Fio dental,Higiene pessoal,9,14.9
+271,2023-04-09,Sabonete liquido,Higiene pessoal,10,12.25
+272,2023-04-10,Protetor solar,Produtos de beleza,2,52.5
+273,2023-04-10,Escova de dente,Higiene pessoal,9,20.5
+274,2023-04-11,Energetico,Conveniencia,8,15.9
+275,2023-04-11,Sabonete liquido,Higiene pessoal,4,12.25
+276,2023-04-11,Locao para acne,Produtos de beleza,5,34.0
+277,2023-04-12,Escova de dente,Higiene pessoal,4,20.5
+278,2023-04-12,Fio dental,Higiene pessoal,10,14.9
+279,2023-04-13,Fio dental,Higiene pessoal,6,14.9
+280,2023-04-13,Preservativo,Higiene pessoal,9,2.5
+281,2023-04-13,Preservativo,Higiene pessoal,8,2.5
+282,2023-04-14,Sabonete em barra,Higiene pessoal,2,5.5
+283,2023-04-14,Fio dental,Higiene pessoal,5,14.9
+284,2023-04-15,Sabonete liquido,Higiene pessoal,5,12.25
+285,2023-04-15,Sabonete em barra,Higiene pessoal,4,5.5
+286,2023-04-15,Chocolate,Conveniencia,8,8.7
+287,2023-04-17,Sabonete em barra,Higiene pessoal,1,5.5
+288,2023-04-17,Energetico,Conveniencia,3,15.9
+289,2023-04-17,Suco de fruta,Conveniencia,10,7.25
+290,2023-04-18,Acetona,Produtos de beleza,9,9.9
+291,2023-04-19,Escova de dente,Higiene pessoal,3,20.5
+292,2023-04-19,Escova de dente,Higiene pessoal,8,20.5
+293,2023-04-19,Aspirina,Remedios,4,11.5
+294,2023-04-20,Protetor solar,Produtos de beleza,1,52.5
+295,2023-04-20,Sabonete em barra,Higiene pessoal,8,5.5
+296,2023-04-20,Paracetamol,Remedios,1,9.9
+297,2023-04-20,Suco de fruta,Conveniencia,3,7.25
+298,2023-04-20,Escova de dente,Higiene pessoal,4,20.5
+299,2023-04-21,Naproxeno,Remedios,5,21.9
+300,2023-04-21,Escova de dente,Higiene pessoal,5,20.5
+301,2023-04-21,Aspirina,Remedios,10,11.5
+302,2023-04-21,Fio dental,Higiene pessoal,5,14.9
+303,2023-04-22,Batom,Produtos de beleza,7,25.5
+304,2023-04-22,Dipirona,Remedios,8,7.6
+305,2023-04-24,Paracetamol,Remedios,4,9.9
+306,2023-04-25,Hidratante labial,Produtos de beleza,1,19.9
+307,2023-04-25,Fio dental,Higiene pessoal,9,14.9
+308,2023-04-26,Ibuprofeno,Remedios,10,12.6
+309,2023-04-26,Protetor solar,Produtos de beleza,1,52.5
+310,2023-04-26,Preservativo,Higiene pessoal,6,2.5
+311,2023-04-26,Energetico,Conveniencia,5,15.9
+312,2023-04-27,Naproxeno,Remedios,5,21.9
+313,2023-04-27,Escova de dente,Higiene pessoal,3,20.5
+314,2023-04-27,Suco de fruta,Conveniencia,7,7.25
+315,2023-04-28,Protetor solar,Produtos de beleza,6,52.5
+316,2023-04-28,Sabonete em barra,Higiene pessoal,2,5.5
+317,2023-04-29,Isotonico,Conveniencia,10,9.5
+318,2023-04-29,Locao para acne,Produtos de beleza,8,34.0
+319,2023-04-29,Isotonico,Conveniencia,1,9.5
+320,2023-04-30,Bala de gelatina,Conveniencia,4,11.9
+321,2023-04-30,Sabonete em barra,Higiene pessoal,6,5.5
+322,2023-04-30,Acetona,Produtos de beleza,9,9.9
+323,2023-04-30,Sabonete liquido,Higiene pessoal,4,12.25
+324,2023-04-30,Bala de gelatina,Conveniencia,6,11.9
+325,2023-05-01,Bala de gelatina,Conveniencia,10,11.9
+326,2023-05-02,Fio dental,Higiene pessoal,9,14.9
+327,2023-05-04,Locao para acne,Produtos de beleza,7,34.0
+328,2023-05-05,Sabonete liquido,Higiene pessoal,6,12.25
+329,2023-05-05,Naproxeno,Remedios,4,21.9
+330,2023-05-06,Batom,Produtos de beleza,5,25.5
+331,2023-05-06,Naproxeno,Remedios,1,21.9
+332,2023-05-07,Dipirona,Remedios,9,7.6
+333,2023-05-08,Isotonico,Conveniencia,1,9.5
+334,2023-05-08,Acetona,Produtos de beleza,2,9.9
+335,2023-05-08,Chocolate,Conveniencia,1,8.7
+336,2023-05-09,Escova de dente,Higiene pessoal,5,20.5
+337,2023-05-09,Naproxeno,Remedios,10,21.9
+338,2023-05-09,Protetor solar,Produtos de beleza,2,52.5
+339,2023-05-09,Acetona,Produtos de beleza,8,9.9
+340,2023-05-09,Locao para acne,Produtos de beleza,7,34.0
+341,2023-05-09,Ibuprofeno,Remedios,8,12.6
+342,2023-05-10,Preservativo,Higiene pessoal,1,2.5
+343,2023-05-10,Aspirina,Remedios,6,11.5
+344,2023-05-10,Chocolate,Conveniencia,8,8.7
+345,2023-05-10,Suco de fruta,Conveniencia,10,7.25
+346,2023-05-11,Ibuprofeno,Remedios,9,12.6
+347,2023-05-11,Bala de gelatina,Conveniencia,9,11.9
+348,2023-05-12,Sabonete liquido,Higiene pessoal,3,12.25
+349,2023-05-12,Hidratante labial,Produtos de beleza,6,19.9
+350,2023-05-12,Suco de fruta,Conveniencia,8,7.25
+351,2023-05-12,Sabonete liquido,Higiene pessoal,4,12.25
+352,2023-05-12,Energetico,Conveniencia,4,15.9
+353,2023-05-13,Isotonico,Conveniencia,8,9.5
+354,2023-05-13,Batom,Produtos de beleza,9,25.5
+355,2023-05-13,Hidratante labial,Produtos de beleza,8,19.9
+356,2023-05-14,Suco de fruta,Conveniencia,8,7.25
+357,2023-05-14,Bala de gelatina,Conveniencia,3,11.9
+358,2023-05-15,Sabonete em barra,Higiene pessoal,6,5.5
+359,2023-05-15,Preservativo,Higiene pessoal,2,2.5
+360,2023-05-15,Chocolate,Conveniencia,2,8.7
+361,2023-05-16,Sabonete liquido,Higiene pessoal,7,12.25
+362,2023-05-16,Hidratante labial,Produtos de beleza,8,19.9
+363,2023-05-16,Batom,Produtos de beleza,5,25.5
+364,2023-05-17,Dipirona,Remedios,3,7.6
+365,2023-05-17,Sabonete em barra,Higiene pessoal,9,5.5
+366,2023-05-17,Locao para acne,Produtos de beleza,4,34.0
+367,2023-05-19,Preservativo,Higiene pessoal,6,2.5
+368,2023-05-19,Naproxeno,Remedios,2,21.9
+369,2023-05-21,Energetico,Conveniencia,5,15.9
+370,2023-05-21,Protetor solar,Produtos de beleza,1,52.5
+371,2023-05-22,Sabonete em barra,Higiene pessoal,9,5.5
+372,2023-05-23,Naproxeno,Remedios,8,21.9
+373,2023-05-23,Energetico,Conveniencia,2,15.9
+374,2023-05-23,Escova de dente,Higiene pessoal,6,20.5
+375,2023-05-24,Suco de fruta,Conveniencia,8,7.25
+376,2023-05-25,Energetico,Conveniencia,9,15.9
+377,2023-05-25,Fio dental,Higiene pessoal,5,14.9
+378,2023-05-25,Ibuprofeno,Remedios,9,12.6
+379,2023-05-26,Protetor solar,Produtos de beleza,1,52.5
+380,2023-05-26,Sabonete em barra,Higiene pessoal,5,5.5
+381,2023-05-27,Dipirona,Remedios,2,7.6
+382,2023-05-27,Suco de fruta,Conveniencia,9,7.25
+383,2023-05-27,Locao para acne,Produtos de beleza,3,34.0
+384,2023-05-28,Ibuprofeno,Remedios,9,12.6
+385,2023-05-28,Aspirina,Remedios,9,11.5
+386,2023-05-28,Isotonico,Conveniencia,10,9.5
+387,2023-05-29,Batom,Produtos de beleza,2,25.5
+388,2023-05-29,Escova de dente,Higiene pessoal,9,20.5
+389,2023-05-29,Aspirina,Remedios,3,11.5
+390,2023-05-29,Aspirina,Remedios,6,11.5
+391,2023-05-29,Naproxeno,Remedios,5,21.9
+392,2023-05-29,Sabonete liquido,Higiene pessoal,8,12.25
+393,2023-05-30,Aspirina,Remedios,4,11.5
+394,2023-05-30,Suco de fruta,Conveniencia,9,7.25
+395,2023-05-31,Escova de dente,Higiene pessoal,3,20.5
+396,2023-05-31,Sabonete em barra,Higiene pessoal,8,5.5
+397,2023-06-01,Ibuprofeno,Remedios,4,12.6
+398,2023-06-01,Paracetamol,Remedios,7,9.9
+399,2023-06-02,Batom,Produtos de beleza,9,25.5
+400,2023-06-02,Fio dental,Higiene pessoal,8,14.9
+401,2023-06-02,Locao para acne,Produtos de beleza,10,34.0
+402,2023-06-02,Dipirona,Remedios,10,7.6
+403,2023-06-02,Bala de gelatina,Conveniencia,3,11.9
+404,2023-06-04,Fio dental,Higiene pessoal,10,14.9
+405,2023-06-05,Chocolate,Conveniencia,9,8.7
+406,2023-06-06,Escova de dente,Higiene pessoal,3,20.5
+407,2023-06-06,Bala de gelatina,Conveniencia,2,11.9
+408,2023-06-06,Naproxeno,Remedios,2,21.9
+409,2023-06-06,Escova de dente,Higiene pessoal,5,20.5
+410,2023-06-07,Energetico,Conveniencia,4,15.9
+411,2023-06-07,Chocolate,Conveniencia,6,8.7
+412,2023-06-08,Naproxeno,Remedios,9,21.9
+413,2023-06-08,Ibuprofeno,Remedios,6,12.6
+414,2023-06-09,Dipirona,Remedios,9,7.6
+415,2023-06-09,Bala de gelatina,Conveniencia,1,11.9
+416,2023-06-09,Ibuprofeno,Remedios,8,12.6
+417,2023-06-11,Ibuprofeno,Remedios,6,12.6
+418,2023-06-11,Energetico,Conveniencia,1,15.9
+419,2023-06-12,Paracetamol,Remedios,3,9.9
+420,2023-06-12,Paracetamol,Remedios,5,9.9
+421,2023-06-12,Fio dental,Higiene pessoal,10,14.9
+422,2023-06-12,Isotonico,Conveniencia,7,9.5
+423,2023-06-12,Acetona,Produtos de beleza,2,9.9
+424,2023-06-13,Suco de fruta,Conveniencia,3,7.25
+425,2023-06-13,Naproxeno,Remedios,3,21.9
+426,2023-06-13,Naproxeno,Remedios,9,21.9
+427,2023-06-13,Naproxeno,Remedios,8,21.9
+428,2023-06-13,Locao para acne,Produtos de beleza,8,34.0
+429,2023-06-14,Sabonete liquido,Higiene pessoal,9,12.25
+430,2023-06-14,Energetico,Conveniencia,10,15.9
+431,2023-06-14,Bala de gelatina,Conveniencia,5,11.9
+432,2023-06-15,Acetona,Produtos de beleza,10,9.9
+433,2023-06-15,Dipirona,Remedios,9,7.6
+434,2023-06-16,Locao para acne,Produtos de beleza,10,34.0
+435,2023-06-17,Batom,Produtos de beleza,8,25.5
+436,2023-06-18,Aspirina,Remedios,4,11.5
+437,2023-06-18,Aspirina,Remedios,8,11.5
+438,2023-06-18,Suco de fruta,Conveniencia,5,7.25
+439,2023-06-18,Dipirona,Remedios,10,7.6
+440,2023-06-19,Aspirina,Remedios,1,11.5
+441,2023-06-19,Ibuprofeno,Remedios,4,12.6
+442,2023-06-19,Chocolate,Conveniencia,9,8.7
+443,2023-06-19,Suco de fruta,Conveniencia,8,7.25
+444,2023-06-20,Locao para acne,Produtos de beleza,9,34.0
+445,2023-06-20,Energetico,Conveniencia,4,15.9
+446,2023-06-21,Isotonico,Conveniencia,9,9.5
+447,2023-06-21,Sabonete liquido,Higiene pessoal,8,12.25
+448,2023-06-22,Chocolate,Conveniencia,4,8.7
+449,2023-06-22,Escova de dente,Higiene pessoal,5,20.5
+450,2023-06-22,Paracetamol,Remedios,4,9.9
+451,2023-06-22,Fio dental,Higiene pessoal,7,14.9
+452,2023-06-22,Sabonete em barra,Higiene pessoal,9,5.5
+453,2023-06-22,Paracetamol,Remedios,9,9.9
+454,2023-06-23,Aspirina,Remedios,8,11.5
+455,2023-06-23,Dipirona,Remedios,4,7.6
+456,2023-06-23,Aspirina,Remedios,8,11.5
+457,2023-06-23,Escova de dente,Higiene pessoal,8,20.5
+458,2023-06-24,Locao para acne,Produtos de beleza,7,34.0
+459,2023-06-25,Chocolate,Conveniencia,5,8.7
+460,2023-06-25,Hidratante labial,Produtos de beleza,2,19.9
+461,2023-06-26,Protetor solar,Produtos de beleza,3,52.5
+462,2023-06-27,Naproxeno,Remedios,8,21.9
+463,2023-06-27,Protetor solar,Produtos de beleza,6,52.5
+464,2023-06-28,Naproxeno,Remedios,3,21.9
+465,2023-06-28,Suco de fruta,Conveniencia,3,7.25
+466,2023-06-28,Escova de dente,Higiene pessoal,10,20.5
+467,2023-06-28,Chocolate,Conveniencia,9,8.7
+468,2023-06-29,Hidratante labial,Produtos de beleza,3,19.9
+469,2023-06-29,Naproxeno,Remedios,1,21.9
+470,2023-06-29,Escova de dente,Higiene pessoal,3,20.5
+471,2023-06-29,Chocolate,Conveniencia,8,8.7
+472,2023-06-29,Isotonico,Conveniencia,4,9.5
+473,2023-06-30,Paracetamol,Remedios,1,9.9
+474,2023-06-30,Protetor solar,Produtos de beleza,6,52.5
+475,2023-07-01,Sabonete em barra,Higiene pessoal,1,5.5
+476,2023-07-01,Naproxeno,Remedios,6,21.9
+477,2023-07-01,Protetor solar,Produtos de beleza,7,52.5
+478,2023-07-01,Chocolate,Conveniencia,7,8.7
+479,2023-07-02,Dipirona,Remedios,6,7.6
+480,2023-07-02,Sabonete em barra,Higiene pessoal,9,5.5
+481,2023-07-03,Isotonico,Conveniencia,2,9.5
+482,2023-07-04,Hidratante labial,Produtos de beleza,2,19.9
+483,2023-07-05,Fio dental,Higiene pessoal,7,14.9
+484,2023-07-05,Acetona,Produtos de beleza,8,9.9
+485,2023-07-05,Batom,Produtos de beleza,2,25.5
+486,2023-07-05,Naproxeno,Remedios,2,21.9
+487,2023-07-05,Locao para acne,Produtos de beleza,2,34.0
+488,2023-07-06,Hidratante labial,Produtos de beleza,3,19.9
+489,2023-07-07,Energetico,Conveniencia,3,15.9
+490,2023-07-07,Bala de gelatina,Conveniencia,2,11.9
+491,2023-07-07,Isotonico,Conveniencia,1,9.5
+492,2023-07-07,Suco de fruta,Conveniencia,9,7.25
+493,2023-07-08,Isotonico,Conveniencia,1,9.5
+494,2023-07-08,Suco de fruta,Conveniencia,1,7.25
+495,2023-07-08,Aspirina,Remedios,9,11.5
+496,2023-07-09,Bala de gelatina,Conveniencia,2,11.9
+497,2023-07-09,Energetico,Conveniencia,5,15.9
+498,2023-07-09,Paracetamol,Remedios,9,9.9
+499,2023-07-09,Sabonete liquido,Higiene pessoal,9,12.25
+500,2023-07-09,Preservativo,Higiene pessoal,10,2.5
+501,2023-07-09,Sabonete liquido,Higiene pessoal,5,12.25
+502,2023-07-09,Dipirona,Remedios,8,7.6
+503,2023-07-10,Hidratante labial,Produtos de beleza,5,19.9
+504,2023-07-10,Bala de gelatina,Conveniencia,5,11.9
+505,2023-07-10,Bala de gelatina,Conveniencia,8,11.9
+506,2023-07-10,Isotonico,Conveniencia,10,9.5
+507,2023-07-10,Isotonico,Conveniencia,3,9.5
+508,2023-07-10,Paracetamol,Remedios,1,9.9
+509,2023-07-10,Escova de dente,Higiene pessoal,10,20.5
+510,2023-07-10,Locao para acne,Produtos de beleza,3,34.0
+511,2023-07-11,Chocolate,Conveniencia,7,8.7
+512,2023-07-11,Aspirina,Remedios,10,11.5
+513,2023-07-11,Ibuprofeno,Remedios,3,12.6
+514,2023-07-11,Batom,Produtos de beleza,2,25.5
+515,2023-07-11,Suco de fruta,Conveniencia,7,7.25
+516,2023-07-11,Locao para acne,Produtos de beleza,9,34.0
+517,2023-07-11,Protetor solar,Produtos de beleza,7,52.5
+518,2023-07-12,Preservativo,Higiene pessoal,7,2.5
+519,2023-07-12,Hidratante labial,Produtos de beleza,8,19.9
+520,2023-07-13,Hidratante labial,Produtos de beleza,1,19.9
+521,2023-07-13,Acetona,Produtos de beleza,5,9.9
+522,2023-07-14,Naproxeno,Remedios,10,21.9
+523,2023-07-14,Aspirina,Remedios,9,11.5
+524,2023-07-14,Suco de fruta,Conveniencia,3,7.25
+525,2023-07-14,Bala de gelatina,Conveniencia,6,11.9
+526,2023-07-14,Hidratante labial,Produtos de beleza,10,19.9
+527,2023-07-15,Preservativo,Higiene pessoal,2,2.5
+528,2023-07-15,Sabonete em barra,Higiene pessoal,9,5.5
+529,2023-07-15,Fio dental,Higiene pessoal,2,14.9
+530,2023-07-16,Batom,Produtos de beleza,3,25.5
+531,2023-07-17,Paracetamol,Remedios,7,9.9
+532,2023-07-17,Preservativo,Higiene pessoal,2,2.5
+533,2023-07-17,Batom,Produtos de beleza,7,25.5
+534,2023-07-17,Preservativo,Higiene pessoal,2,2.5
+535,2023-07-18,Isotonico,Conveniencia,7,9.5
+536,2023-07-18,Sabonete liquido,Higiene pessoal,3,12.25
+537,2023-07-19,Ibuprofeno,Remedios,9,12.6
+538,2023-07-19,Locao para acne,Produtos de beleza,6,34.0
+539,2023-07-20,Locao para acne,Produtos de beleza,10,34.0
+540,2023-07-20,Acetona,Produtos de beleza,6,9.9
+541,2023-07-20,Energetico,Conveniencia,8,15.9
+542,2023-07-21,Energetico,Conveniencia,1,15.9
+543,2023-07-21,Suco de fruta,Conveniencia,10,7.25
+544,2023-07-21,Naproxeno,Remedios,7,21.9
+545,2023-07-21,Protetor solar,Produtos de beleza,2,52.5
+546,2023-07-22,Naproxeno,Remedios,6,21.9
+547,2023-07-22,Chocolate,Conveniencia,10,8.7
+548,2023-07-22,Paracetamol,Remedios,9,9.9
+549,2023-07-22,Hidratante labial,Produtos de beleza,5,19.9
+550,2023-07-23,Fio dental,Higiene pessoal,1,14.9
+551,2023-07-24,Preservativo,Higiene pessoal,7,2.5
+552,2023-07-25,Bala de gelatina,Conveniencia,7,11.9
+553,2023-07-25,Locao para acne,Produtos de beleza,6,34.0
+554,2023-07-25,Sabonete liquido,Higiene pessoal,2,12.25
+555,2023-07-26,Locao para acne,Produtos de beleza,5,34.0
+556,2023-07-26,Preservativo,Higiene pessoal,9,2.5
+557,2023-07-26,Dipirona,Remedios,9,7.6
+558,2023-07-27,Hidratante labial,Produtos de beleza,4,19.9
+559,2023-07-27,Naproxeno,Remedios,8,21.9
+560,2023-07-27,Sabonete em barra,Higiene pessoal,2,5.5
+561,2023-07-27,Chocolate,Conveniencia,10,8.7
+562,2023-07-27,Hidratante labial,Produtos de beleza,8,19.9
+563,2023-07-27,Bala de gelatina,Conveniencia,2,11.9
+564,2023-07-28,Protetor solar,Produtos de beleza,5,52.5
+565,2023-07-29,Hidratante labial,Produtos de beleza,1,19.9
+566,2023-07-29,Locao para acne,Produtos de beleza,8,34.0
+567,2023-07-29,Naproxeno,Remedios,2,21.9
+568,2023-07-29,Dipirona,Remedios,7,7.6
+569,2023-07-29,Sabonete em barra,Higiene pessoal,10,5.5
+570,2023-07-29,Isotonico,Conveniencia,2,9.5
+571,2023-07-29,Preservativo,Higiene pessoal,6,2.5
+572,2023-07-30,Aspirina,Remedios,8,11.5
+573,2023-07-30,Preservativo,Higiene pessoal,6,2.5
+574,2023-07-31,Paracetamol,Remedios,8,9.9
+575,2023-07-31,Chocolate,Conveniencia,10,8.7
+576,2023-07-31,Bala de gelatina,Conveniencia,7,11.9
+577,2023-08-01,Bala de gelatina,Conveniencia,1,11.9
+578,2023-08-01,Chocolate,Conveniencia,5,8.7
+579,2023-08-02,Sabonete em barra,Higiene pessoal,8,5.5
+580,2023-08-02,Protetor solar,Produtos de beleza,6,52.5
+581,2023-08-03,Suco de fruta,Conveniencia,4,7.25
+582,2023-08-03,Escova de dente,Higiene pessoal,10,20.5
+583,2023-08-04,Energetico,Conveniencia,4,15.9
+584,2023-08-04,Suco de fruta,Conveniencia,6,7.25
+585,2023-08-04,Protetor solar,Produtos de beleza,5,52.5
+586,2023-08-04,Suco de fruta,Conveniencia,4,7.25
+587,2023-08-04,Sabonete liquido,Higiene pessoal,7,12.25
+588,2023-08-04,Sabonete liquido,Higiene pessoal,8,12.25
+589,2023-08-05,Locao para acne,Produtos de beleza,2,34.0
+590,2023-08-05,Isotonico,Conveniencia,9,9.5
+591,2023-08-05,Paracetamol,Remedios,9,9.9
+592,2023-08-05,Isotonico,Conveniencia,10,9.5
+593,2023-08-06,Bala de gelatina,Conveniencia,9,11.9
+594,2023-08-07,Fio dental,Higiene pessoal,8,14.9
+595,2023-08-07,Paracetamol,Remedios,1,9.9
+596,2023-08-07,Sabonete em barra,Higiene pessoal,7,5.5
+597,2023-08-07,Naproxeno,Remedios,8,21.9
+598,2023-08-07,Suco de fruta,Conveniencia,9,7.25
+599,2023-08-08,Acetona,Produtos de beleza,7,9.9
+600,2023-08-08,Sabonete em barra,Higiene pessoal,9,5.5
+601,2023-08-08,Preservativo,Higiene pessoal,1,2.5
+602,2023-08-08,Paracetamol,Remedios,6,9.9
+603,2023-08-09,Energetico,Conveniencia,3,15.9
+604,2023-08-09,Preservativo,Higiene pessoal,8,2.5
+605,2023-08-10,Paracetamol,Remedios,4,9.9
+606,2023-08-11,Sabonete em barra,Higiene pessoal,2,5.5
+607,2023-08-11,Locao para acne,Produtos de beleza,8,34.0
+608,2023-08-11,Locao para acne,Produtos de beleza,3,34.0
+609,2023-08-12,Acetona,Produtos de beleza,6,9.9
+610,2023-08-14,Hidratante labial,Produtos de beleza,3,19.9
+611,2023-08-15,Bala de gelatina,Conveniencia,3,11.9
+612,2023-08-16,Energetico,Conveniencia,7,15.9
+613,2023-08-16,Protetor solar,Produtos de beleza,1,52.5
+614,2023-08-16,Sabonete liquido,Higiene pessoal,4,12.25
+615,2023-08-17,Chocolate,Conveniencia,3,8.7
+616,2023-08-17,Energetico,Conveniencia,4,15.9
+617,2023-08-17,Protetor solar,Produtos de beleza,7,52.5
+618,2023-08-18,Protetor solar,Produtos de beleza,7,52.5
+619,2023-08-18,Protetor solar,Produtos de beleza,7,52.5
+620,2023-08-19,Aspirina,Remedios,2,11.5
+621,2023-08-20,Protetor solar,Produtos de beleza,10,52.5
+622,2023-08-20,Batom,Produtos de beleza,2,25.5
+623,2023-08-20,Locao para acne,Produtos de beleza,10,34.0
+624,2023-08-21,Escova de dente,Higiene pessoal,2,20.5
+625,2023-08-21,Energetico,Conveniencia,9,15.9
+626,2023-08-21,Dipirona,Remedios,4,7.6
+627,2023-08-21,Locao para acne,Produtos de beleza,3,34.0
+628,2023-08-22,Dipirona,Remedios,1,7.6
+629,2023-08-22,Escova de dente,Higiene pessoal,9,20.5
+630,2023-08-22,Protetor solar,Produtos de beleza,9,52.5
+631,2023-08-22,Paracetamol,Remedios,1,9.9
+632,2023-08-23,Sabonete em barra,Higiene pessoal,10,5.5
+633,2023-08-23,Suco de fruta,Conveniencia,3,7.25
+634,2023-08-24,Fio dental,Higiene pessoal,3,14.9
+635,2023-08-25,Sabonete liquido,Higiene pessoal,4,12.25
+636,2023-08-25,Preservativo,Higiene pessoal,10,2.5
+637,2023-08-25,Dipirona,Remedios,5,7.6
+638,2023-08-26,Sabonete liquido,Higiene pessoal,6,12.25
+639,2023-08-26,Escova de dente,Higiene pessoal,5,20.5
+640,2023-08-26,Fio dental,Higiene pessoal,2,14.9
+641,2023-08-26,Dipirona,Remedios,5,7.6
+642,2023-08-27,Sabonete em barra,Higiene pessoal,3,5.5
+643,2023-08-27,Ibuprofeno,Remedios,1,12.6
+644,2023-08-27,Locao para acne,Produtos de beleza,7,34.0
+645,2023-08-28,Chocolate,Conveniencia,4,8.7
+646,2023-08-29,Paracetamol,Remedios,8,9.9
+647,2023-08-29,Batom,Produtos de beleza,3,25.5
+648,2023-08-30,Suco de fruta,Conveniencia,10,7.25
+649,2023-08-30,Suco de fruta,Conveniencia,10,7.25
+650,2023-08-30,Escova de dente,Higiene pessoal,2,20.5
+651,2023-08-30,Acetona,Produtos de beleza,8,9.9
+652,2023-08-31,Bala de gelatina,Conveniencia,1,11.9
+653,2023-08-31,Escova de dente,Higiene pessoal,2,20.5
+654,2023-08-31,Escova de dente,Higiene pessoal,9,20.5
+655,2023-09-01,Suco de fruta,Conveniencia,1,7.25
+656,2023-09-02,Chocolate,Conveniencia,6,8.7
+657,2023-09-02,Escova de dente,Higiene pessoal,8,20.5
+658,2023-09-03,Isotonico,Conveniencia,7,9.5
+659,2023-09-04,Energetico,Conveniencia,7,15.9
+660,2023-09-04,Suco de fruta,Conveniencia,6,7.25
+661,2023-09-04,Escova de dente,Higiene pessoal,9,20.5
+662,2023-09-04,Ibuprofeno,Remedios,6,12.6
+663,2023-09-04,Paracetamol,Remedios,5,9.9
+664,2023-09-05,Chocolate,Conveniencia,6,8.7
+665,2023-09-05,Bala de gelatina,Conveniencia,2,11.9
+666,2023-09-06,Fio dental,Higiene pessoal,10,14.9
+667,2023-09-06,Protetor solar,Produtos de beleza,6,52.5
+668,2023-09-06,Aspirina,Remedios,9,11.5
+669,2023-09-07,Isotonico,Conveniencia,9,9.5
+670,2023-09-07,Acetona,Produtos de beleza,1,9.9
+671,2023-09-08,Fio dental,Higiene pessoal,5,14.9
+672,2023-09-08,Hidratante labial,Produtos de beleza,1,19.9
+673,2023-09-08,Aspirina,Remedios,7,11.5
+674,2023-09-08,Ibuprofeno,Remedios,10,12.6
+675,2023-09-09,Dipirona,Remedios,10,7.6
+676,2023-09-09,Energetico,Conveniencia,4,15.9
+677,2023-09-09,Ibuprofeno,Remedios,10,12.6
+678,2023-09-09,Batom,Produtos de beleza,5,25.5
+679,2023-09-10,Escova de dente,Higiene pessoal,9,20.5
+680,2023-09-10,Ibuprofeno,Remedios,6,12.6
+681,2023-09-11,Acetona,Produtos de beleza,5,9.9
+682,2023-09-12,Bala de gelatina,Conveniencia,5,11.9
+683,2023-09-12,Energetico,Conveniencia,9,15.9
+684,2023-09-13,Preservativo,Higiene pessoal,2,2.5
+685,2023-09-13,Naproxeno,Remedios,4,21.9
+686,2023-09-13,Aspirina,Remedios,9,11.5
+687,2023-09-13,Escova de dente,Higiene pessoal,8,20.5
+688,2023-09-14,Sabonete em barra,Higiene pessoal,2,5.5
+689,2023-09-15,Bala de gelatina,Conveniencia,2,11.9
+690,2023-09-15,Sabonete liquido,Higiene pessoal,1,12.25
+691,2023-09-15,Sabonete liquido,Higiene pessoal,5,12.25
+692,2023-09-15,Naproxeno,Remedios,8,21.9
+693,2023-09-16,Hidratante labial,Produtos de beleza,7,19.9
+694,2023-09-17,Paracetamol,Remedios,2,9.9
+695,2023-09-17,Protetor solar,Produtos de beleza,3,52.5
+696,2023-09-18,Chocolate,Conveniencia,4,8.7
+697,2023-09-18,Energetico,Conveniencia,3,15.9
+698,2023-09-18,Suco de fruta,Conveniencia,9,7.25
+699,2023-09-18,Preservativo,Higiene pessoal,1,2.5
+700,2023-09-18,Ibuprofeno,Remedios,9,12.6
+701,2023-09-18,Energetico,Conveniencia,8,15.9
+702,2023-09-19,Escova de dente,Higiene pessoal,8,20.5
+703,2023-09-19,Escova de dente,Higiene pessoal,7,20.5
+704,2023-09-19,Energetico,Conveniencia,2,15.9
+705,2023-09-19,Aspirina,Remedios,4,11.5
+706,2023-09-20,Batom,Produtos de beleza,6,25.5
+707,2023-09-21,Naproxeno,Remedios,8,21.9
+708,2023-09-21,Preservativo,Higiene pessoal,3,2.5
+709,2023-09-21,Escova de dente,Higiene pessoal,1,20.5
+710,2023-09-21,Aspirina,Remedios,4,11.5
+711,2023-09-22,Preservativo,Higiene pessoal,7,2.5
+712,2023-09-23,Sabonete em barra,Higiene pessoal,5,5.5
+713,2023-09-24,Batom,Produtos de beleza,2,25.5
+714,2023-09-24,Energetico,Conveniencia,5,15.9
+715,2023-09-24,Protetor solar,Produtos de beleza,4,52.5
+716,2023-09-24,Aspirina,Remedios,8,11.5
+717,2023-09-25,Sabonete em barra,Higiene pessoal,8,5.5
+718,2023-09-26,Dipirona,Remedios,8,7.6
+719,2023-09-26,Acetona,Produtos de beleza,9,9.9
+720,2023-09-26,Aspirina,Remedios,5,11.5
+721,2023-09-27,Suco de fruta,Conveniencia,10,7.25
+722,2023-09-27,Hidratante labial,Produtos de beleza,7,19.9
+723,2023-09-27,Energetico,Conveniencia,1,15.9
+724,2023-09-28,Batom,Produtos de beleza,2,25.5
+725,2023-09-28,Acetona,Produtos de beleza,7,9.9
+726,2023-09-28,Preservativo,Higiene pessoal,3,2.5
+727,2023-09-28,Bala de gelatina,Conveniencia,5,11.9
+728,2023-09-28,Aspirina,Remedios,7,11.5
+729,2023-09-29,Ibuprofeno,Remedios,5,12.6
+730,2023-09-29,Isotonico,Conveniencia,8,9.5
+731,2023-09-29,Fio dental,Higiene pessoal,9,14.9
+732,2023-09-30,Paracetamol,Remedios,3,9.9
+733,2023-09-30,Bala de gelatina,Conveniencia,9,11.9
+734,2023-09-30,Chocolate,Conveniencia,7,8.7
+735,2023-09-30,Escova de dente,Higiene pessoal,1,20.5
+736,2023-10-01,Chocolate,Conveniencia,4,8.7
+737,2023-10-01,Fio dental,Higiene pessoal,5,14.9
+738,2023-10-02,Chocolate,Conveniencia,3,8.7
+739,2023-10-02,Dipirona,Remedios,4,7.6
+740,2023-10-02,Aspirina,Remedios,4,11.5
+741,2023-10-03,Protetor solar,Produtos de beleza,7,52.5
+742,2023-10-03,Ibuprofeno,Remedios,6,12.6
+743,2023-10-03,Energetico,Conveniencia,6,15.9
+744,2023-10-04,Acetona,Produtos de beleza,6,9.9
+745,2023-10-04,Fio dental,Higiene pessoal,1,14.9
+746,2023-10-04,Isotonico,Conveniencia,1,9.5
+747,2023-10-05,Acetona,Produtos de beleza,9,9.9
+748,2023-10-05,Suco de fruta,Conveniencia,2,7.25
+749,2023-10-06,Isotonico,Conveniencia,1,9.5
+750,2023-10-06,Batom,Produtos de beleza,3,25.5
+751,2023-10-07,Sabonete em barra,Higiene pessoal,1,5.5
+752,2023-10-07,Protetor solar,Produtos de beleza,3,52.5
+753,2023-10-08,Ibuprofeno,Remedios,3,12.6
+754,2023-10-08,Hidratante labial,Produtos de beleza,4,19.9
+755,2023-10-08,Isotonico,Conveniencia,3,9.5
+756,2023-10-08,Aspirina,Remedios,2,11.5
+757,2023-10-09,Suco de fruta,Conveniencia,9,7.25
+758,2023-10-09,Bala de gelatina,Conveniencia,1,11.9
+759,2023-10-10,Acetona,Produtos de beleza,2,9.9
+760,2023-10-10,Dipirona,Remedios,5,7.6
+761,2023-10-10,Bala de gelatina,Conveniencia,9,11.9
+762,2023-10-11,Escova de dente,Higiene pessoal,8,20.5
+763,2023-10-11,Energetico,Conveniencia,6,15.9
+764,2023-10-11,Fio dental,Higiene pessoal,8,14.9
+765,2023-10-11,Preservativo,Higiene pessoal,5,2.5
+766,2023-10-11,Escova de dente,Higiene pessoal,6,20.5
+767,2023-10-12,Dipirona,Remedios,2,7.6
+768,2023-10-12,Paracetamol,Remedios,6,9.9
+769,2023-10-12,Energetico,Conveniencia,4,15.9
+770,2023-10-12,Batom,Produtos de beleza,3,25.5
+771,2023-10-13,Naproxeno,Remedios,8,21.9
+772,2023-10-13,Preservativo,Higiene pessoal,3,2.5
+773,2023-10-13,Dipirona,Remedios,9,7.6
+774,2023-10-13,Chocolate,Conveniencia,8,8.7
+775,2023-10-13,Batom,Produtos de beleza,5,25.5
+776,2023-10-14,Bala de gelatina,Conveniencia,1,11.9
+777,2023-10-14,Ibuprofeno,Remedios,4,12.6
+778,2023-10-14,Paracetamol,Remedios,6,9.9
+779,2023-10-14,Ibuprofeno,Remedios,5,12.6
+780,2023-10-14,Naproxeno,Remedios,7,21.9
+781,2023-10-15,Aspirina,Remedios,10,11.5
+782,2023-10-16,Sabonete em barra,Higiene pessoal,3,5.5
+783,2023-10-16,Preservativo,Higiene pessoal,3,2.5
+784,2023-10-16,Locao para acne,Produtos de beleza,6,34.0
+785,2023-10-16,Bala de gelatina,Conveniencia,1,11.9
+786,2023-10-16,Preservativo,Higiene pessoal,5,2.5
+787,2023-10-16,Ibuprofeno,Remedios,2,12.6
+788,2023-10-17,Bala de gelatina,Conveniencia,2,11.9
+789,2023-10-17,Protetor solar,Produtos de beleza,10,52.5
+790,2023-10-17,Sabonete em barra,Higiene pessoal,8,5.5
+791,2023-10-18,Fio dental,Higiene pessoal,1,14.9
+792,2023-10-18,Naproxeno,Remedios,5,21.9
+793,2023-10-18,Paracetamol,Remedios,3,9.9
+794,2023-10-18,Escova de dente,Higiene pessoal,2,20.5
+795,2023-10-19,Hidratante labial,Produtos de beleza,2,19.9
+796,2023-10-20,Paracetamol,Remedios,9,9.9
+797,2023-10-20,Sabonete liquido,Higiene pessoal,3,12.25
+798,2023-10-20,Isotonico,Conveniencia,6,9.5
+799,2023-10-20,Sabonete liquido,Higiene pessoal,5,12.25
+800,2023-10-21,Fio dental,Higiene pessoal,10,14.9
+801,2023-10-21,Ibuprofeno,Remedios,2,12.6
+802,2023-10-21,Suco de fruta,Conveniencia,9,7.25
+803,2023-10-22,Acetona,Produtos de beleza,9,9.9
+804,2023-10-22,Bala de gelatina,Conveniencia,4,11.9
+805,2023-10-24,Sabonete em barra,Higiene pessoal,10,5.5
+806,2023-10-24,Bala de gelatina,Conveniencia,5,11.9
+807,2023-10-24,Aspirina,Remedios,1,11.5
+808,2023-10-24,Naproxeno,Remedios,10,21.9
+809,2023-10-24,Energetico,Conveniencia,10,15.9
+810,2023-10-25,Isotonico,Conveniencia,10,9.5
+811,2023-10-25,Suco de fruta,Conveniencia,7,7.25
+812,2023-10-25,Chocolate,Conveniencia,2,8.7
+813,2023-10-25,Acetona,Produtos de beleza,5,9.9
+814,2023-10-26,Batom,Produtos de beleza,10,25.5
+815,2023-10-27,Energetico,Conveniencia,8,15.9
+816,2023-10-27,Bala de gelatina,Conveniencia,3,11.9
+817,2023-10-27,Bala de gelatina,Conveniencia,5,11.9
+818,2023-10-28,Sabonete liquido,Higiene pessoal,8,12.25
+819,2023-10-28,Sabonete em barra,Higiene pessoal,1,5.5
+820,2023-10-28,Locao para acne,Produtos de beleza,1,34.0
+821,2023-10-28,Fio dental,Higiene pessoal,1,14.9
+822,2023-10-28,Fio dental,Higiene pessoal,7,14.9
+823,2023-10-29,Escova de dente,Higiene pessoal,10,20.5
+824,2023-10-29,Locao para acne,Produtos de beleza,9,34.0
+825,2023-10-29,Batom,Produtos de beleza,6,25.5
+826,2023-10-29,Paracetamol,Remedios,10,9.9
+827,2023-10-30,Naproxeno,Remedios,3,21.9
+828,2023-10-30,Batom,Produtos de beleza,6,25.5
+829,2023-10-31,Fio dental,Higiene pessoal,6,14.9
+830,2023-10-31,Paracetamol,Remedios,10,9.9
+831,2023-10-31,Suco de fruta,Conveniencia,2,7.25
+832,2023-10-31,Fio dental,Higiene pessoal,9,14.9
+833,2023-10-31,Fio dental,Higiene pessoal,2,14.9
+834,2023-11-01,Isotonico,Conveniencia,6,9.5
+835,2023-11-01,Sabonete liquido,Higiene pessoal,6,12.25
+836,2023-11-01,Acetona,Produtos de beleza,5,9.9
+837,2023-11-02,Sabonete liquido,Higiene pessoal,7,12.25
+838,2023-11-03,Paracetamol,Remedios,7,9.9
+839,2023-11-04,Bala de gelatina,Conveniencia,10,11.9
+840,2023-11-04,Isotonico,Conveniencia,1,9.5
+841,2023-11-05,Bala de gelatina,Conveniencia,6,11.9
+842,2023-11-06,Dipirona,Remedios,10,7.6
+843,2023-11-06,Naproxeno,Remedios,3,21.9
+844,2023-11-06,Ibuprofeno,Remedios,2,12.6
+845,2023-11-06,Paracetamol,Remedios,8,9.9
+846,2023-11-06,Aspirina,Remedios,3,11.5
+847,2023-11-06,Dipirona,Remedios,6,7.6
+848,2023-11-06,Aspirina,Remedios,6,11.5
+849,2023-11-06,Sabonete liquido,Higiene pessoal,5,12.25
+850,2023-11-06,Isotonico,Conveniencia,10,9.5
+851,2023-11-06,Sabonete liquido,Higiene pessoal,4,12.25
+852,2023-11-07,Suco de fruta,Conveniencia,9,7.25
+853,2023-11-07,Sabonete em barra,Higiene pessoal,1,5.5
+854,2023-11-09,Locao para acne,Produtos de beleza,7,34.0
+855,2023-11-09,Isotonico,Conveniencia,8,9.5
+856,2023-11-10,Preservativo,Higiene pessoal,9,2.5
+857,2023-11-11,Fio dental,Higiene pessoal,3,14.9
+858,2023-11-11,Acetona,Produtos de beleza,9,9.9
+859,2023-11-11,Fio dental,Higiene pessoal,4,14.9
+860,2023-11-11,Bala de gelatina,Conveniencia,8,11.9
+861,2023-11-12,Protetor solar,Produtos de beleza,9,52.5
+862,2023-11-13,Isotonico,Conveniencia,5,9.5
+863,2023-11-13,Aspirina,Remedios,9,11.5
+864,2023-11-13,Acetona,Produtos de beleza,1,9.9
+865,2023-11-13,Sabonete liquido,Higiene pessoal,6,12.25
+866,2023-11-13,Dipirona,Remedios,9,7.6
+867,2023-11-14,Naproxeno,Remedios,10,21.9
+868,2023-11-14,Hidratante labial,Produtos de beleza,1,19.9
+869,2023-11-14,Locao para acne,Produtos de beleza,8,34.0
+870,2023-11-14,Bala de gelatina,Conveniencia,6,11.9
+871,2023-11-14,Dipirona,Remedios,9,7.6
+872,2023-11-15,Sabonete liquido,Higiene pessoal,2,12.25
+873,2023-11-15,Acetona,Produtos de beleza,7,9.9
+874,2023-11-15,Batom,Produtos de beleza,5,25.5
+875,2023-11-17,Fio dental,Higiene pessoal,5,14.9
+876,2023-11-17,Sabonete em barra,Higiene pessoal,9,5.5
+877,2023-11-17,Ibuprofeno,Remedios,4,12.6
+878,2023-11-17,Fio dental,Higiene pessoal,10,14.9
+879,2023-11-18,Sabonete liquido,Higiene pessoal,10,12.25
+880,2023-11-18,Ibuprofeno,Remedios,7,12.6
+881,2023-11-19,Ibuprofeno,Remedios,10,12.6
+882,2023-11-19,Naproxeno,Remedios,5,21.9
+883,2023-11-19,Dipirona,Remedios,6,7.6
+884,2023-11-20,Chocolate,Conveniencia,8,8.7
+885,2023-11-20,Bala de gelatina,Conveniencia,2,11.9
+886,2023-11-20,Escova de dente,Higiene pessoal,6,20.5
+887,2023-11-20,Aspirina,Remedios,1,11.5
+888,2023-11-20,Batom,Produtos de beleza,5,25.5
+889,2023-11-20,Naproxeno,Remedios,6,21.9
+890,2023-11-21,Suco de fruta,Conveniencia,10,7.25
+891,2023-11-21,Batom,Produtos de beleza,7,25.5
+892,2023-11-21,Sabonete liquido,Higiene pessoal,3,12.25
+893,2023-11-22,Aspirina,Remedios,7,11.5
+894,2023-11-22,Chocolate,Conveniencia,1,8.7
+895,2023-11-23,Sabonete liquido,Higiene pessoal,9,12.25
+896,2023-11-23,Hidratante labial,Produtos de beleza,5,19.9
+897,2023-11-23,Acetona,Produtos de beleza,7,9.9
+898,2023-11-24,Chocolate,Conveniencia,7,8.7
+899,2023-11-24,Locao para acne,Produtos de beleza,1,34.0
+900,2023-11-24,Chocolate,Conveniencia,8,8.7
+901,2023-11-25,Sabonete liquido,Higiene pessoal,5,12.25
+902,2023-11-26,Sabonete liquido,Higiene pessoal,5,12.25
+903,2023-11-26,Escova de dente,Higiene pessoal,3,20.5
+904,2023-11-27,Bala de gelatina,Conveniencia,3,11.9
+905,2023-11-27,Preservativo,Higiene pessoal,6,2.5
+906,2023-11-27,Locao para acne,Produtos de beleza,10,34.0
+907,2023-11-28,Chocolate,Conveniencia,7,8.7
+908,2023-11-28,Bala de gelatina,Conveniencia,10,11.9
+909,2023-11-29,Sabonete em barra,Higiene pessoal,1,5.5
+910,2023-11-29,Bala de gelatina,Conveniencia,4,11.9
+911,2023-11-29,Aspirina,Remedios,4,11.5
+912,2023-11-29,Sabonete liquido,Higiene pessoal,2,12.25
+913,2023-11-29,Preservativo,Higiene pessoal,4,2.5
+914,2023-11-29,Bala de gelatina,Conveniencia,8,11.9
+915,2023-11-29,Locao para acne,Produtos de beleza,8,34.0
+916,2023-11-29,Isotonico,Conveniencia,3,9.5
+917,2023-12-01,Batom,Produtos de beleza,5,25.5
+918,2023-12-01,Isotonico,Conveniencia,9,9.5
+919,2023-12-01,Escova de dente,Higiene pessoal,9,20.5
+920,2023-12-02,Suco de fruta,Conveniencia,9,7.25
+921,2023-12-02,Paracetamol,Remedios,8,9.9
+922,2023-12-03,Fio dental,Higiene pessoal,6,14.9
+923,2023-12-04,Ibuprofeno,Remedios,8,12.6
+924,2023-12-04,Sabonete em barra,Higiene pessoal,8,5.5
+925,2023-12-05,Paracetamol,Remedios,7,9.9
+926,2023-12-05,Chocolate,Conveniencia,1,8.7
+927,2023-12-05,Batom,Produtos de beleza,10,25.5
+928,2023-12-05,Acetona,Produtos de beleza,5,9.9
+929,2023-12-08,Aspirina,Remedios,5,11.5
+930,2023-12-08,Sabonete em barra,Higiene pessoal,7,5.5
+931,2023-12-08,Paracetamol,Remedios,3,9.9
+932,2023-12-08,Hidratante labial,Produtos de beleza,2,19.9
+933,2023-12-09,Bala de gelatina,Conveniencia,9,11.9
+934,2023-12-10,Escova de dente,Higiene pessoal,5,20.5
+935,2023-12-10,Bala de gelatina,Conveniencia,4,11.9
+936,2023-12-10,Paracetamol,Remedios,3,9.9
+937,2023-12-12,Sabonete em barra,Higiene pessoal,10,5.5
+938,2023-12-12,Energetico,Conveniencia,3,15.9
+939,2023-12-12,Suco de fruta,Conveniencia,8,7.25
+940,2023-12-13,Protetor solar,Produtos de beleza,4,52.5
+941,2023-12-14,Dipirona,Remedios,2,7.6
+942,2023-12-14,Sabonete em barra,Higiene pessoal,9,5.5
+943,2023-12-14,Preservativo,Higiene pessoal,7,2.5
+944,2023-12-14,Dipirona,Remedios,2,7.6
+945,2023-12-14,Suco de fruta,Conveniencia,7,7.25
+946,2023-12-15,Paracetamol,Remedios,2,9.9
+947,2023-12-16,Paracetamol,Remedios,2,9.9
+948,2023-12-17,Isotonico,Conveniencia,8,9.5
+949,2023-12-19,Sabonete liquido,Higiene pessoal,5,12.25
+950,2023-12-19,Batom,Produtos de beleza,10,25.5
+951,2023-12-19,Preservativo,Higiene pessoal,6,2.5
+952,2023-12-20,Escova de dente,Higiene pessoal,6,20.5
+953,2023-12-20,Fio dental,Higiene pessoal,9,14.9
+954,2023-12-20,Bala de gelatina,Conveniencia,2,11.9
+955,2023-12-20,Sabonete em barra,Higiene pessoal,5,5.5
+956,2023-12-21,Locao para acne,Produtos de beleza,1,34.0
+957,2023-12-21,Dipirona,Remedios,2,7.6
+958,2023-12-22,Acetona,Produtos de beleza,10,9.9
+959,2023-12-22,Batom,Produtos de beleza,8,25.5
+960,2023-12-22,Sabonete em barra,Higiene pessoal,10,5.5
+961,2023-12-23,Dipirona,Remedios,1,7.6
+962,2023-12-23,Dipirona,Remedios,6,7.6
+963,2023-12-23,Protetor solar,Produtos de beleza,2,52.5
+964,2023-12-24,Escova de dente,Higiene pessoal,4,20.5
+965,2023-12-24,Protetor solar,Produtos de beleza,6,52.5
+966,2023-12-24,Paracetamol,Remedios,8,9.9
+967,2023-12-24,Locao para acne,Produtos de beleza,8,34.0
+968,2023-12-24,Locao para acne,Produtos de beleza,6,34.0
+969,2023-12-24,Fio dental,Higiene pessoal,10,14.9
+970,2023-12-24,Chocolate,Conveniencia,1,8.7
+971,2023-12-26,Isotonico,Conveniencia,3,9.5
+972,2023-12-27,Paracetamol,Remedios,7,9.9
+973,2023-12-28,Sabonete liquido,Higiene pessoal,10,12.25
+974,2023-12-28,Hidratante labial,Produtos de beleza,1,19.9
+975,2023-12-28,Chocolate,Conveniencia,1,8.7
+976,2023-12-28,Aspirina,Remedios,6,11.5
+977,2023-12-28,Escova de dente,Higiene pessoal,7,20.5
+978,2023-12-29,Acetona,Produtos de beleza,3,9.9
+979,2023-12-30,Hidratante labial,Produtos de beleza,6,19.9
+980,2023-12-30,Batom,Produtos de beleza,4,25.5
